@@ -1,0 +1,2 @@
+# Cars_Price_Prediction
+Predicting Car Price The dataset for prediction of car price contains information on various cars. For each car there is information about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more.  The machine learning model we are going to use is k nearest neighborhood. But before that we are going to import some libraries and clean the data.
